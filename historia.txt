@@ -1,3 +1,5 @@
-Probado GitHub
-
+Practicando Comandos GitHub
+--------------
 Platzi Curso para aprender Git avanzado.
+
+CEO go !
