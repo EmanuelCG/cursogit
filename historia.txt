@@ -1,3 +1,3 @@
 Probado GitHub
 
-Platzi Curso
+Platzi Curso para aprender Git avanzado.
