@@ -8,15 +8,15 @@ body {
     background-color: rgb(45, 255, 157);
     padding: 10px;
     width: 50%;
-    text-align: center;
+    text-align: left;
 }
 
 .container{
     margin: 0 auto;
     width: 50%;
     padding: 10px;
-    background-color: #8183fc;
-    
+    background-color: #f2f2f2;
+    border-radius: 0px 0px 20px 20px;
 }
 
 .comentarios p{
@@ -24,14 +24,16 @@ body {
     padding: 0px;
 }
 
-footer{
-    margin: 0 auto;
-    width: 50%;
-    background-color: #272727;
-    color: white;
-    padding: 10px;
-    border-radius: 0px 0px 20px 20px;
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: bold;
+.cabecera img {
+    width: 4em;
+    display: inline;
+    height: auto;
+    vertical-align: middle;
+}
+
+
+.cabecera h3{
+    display: inline;
+    padding-left: 2em;
+    vertical-align: middle;
 }
